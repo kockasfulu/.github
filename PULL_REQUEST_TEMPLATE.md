@@ -2,7 +2,7 @@
 
 Please include a summary of the changes and the related issue if any. 
 
-### Why these changer are needed
+### Why these changes are needed
 
 Please include relevant motivation and context.
 
